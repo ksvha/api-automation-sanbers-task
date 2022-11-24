@@ -1,0 +1,25 @@
+{
+  "name": "api-automation-sanbers-task",
+  "version": "1.0.0",
+  "description": "sanbers task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksvha/api-automation-sanbers-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksvha/api-automation-sanbers-task/issues"
+  },
+  "homepage": "https://github.com/ksvha/api-automation-sanbers-task#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "jsonschema": "^1.4.1",
+    "mochawesome": "^7.1.3",
+    "supertest": "^6.3.1"
+  }
+}
